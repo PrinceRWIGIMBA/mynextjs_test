@@ -1,3 +1,7 @@
+[![Vercel Preview Deployment](https://github.com/PrinceRWIGIMBA/mynextjs_test/actions/workflows/preview.yaml/badge.svg)](https://github.com/PrinceRWIGIMBA/mynextjs_test/actions/workflows/preview.yaml)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
